@@ -1,0 +1,10 @@
+.title {
+  padding: 1rem;
+}
+
+.cryto-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(14rem, 14rem));
+  gap: 2rem;
+  padding: 1rem;
+}
