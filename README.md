@@ -48,9 +48,3 @@ Another change is that I need to add a database for the users, their data, and u
 4. What are some other enhancements you would have made if you had more time to do this implementation
 
 **Ans:** Unfortunately I did not spend a lot of time on this project. An enhancement that would definitely benefit the app is using web-socket to consistently pull data and display them. Another enhancement would be to add a button that shows a modal with both exchange's prices graphs history by using Chart.js. Another enhancement would be to change the text color of the price or show an up or down arrow when the prices change, this way the user can see the changes of price.# crypto-watch
-# crypto-watch
-# crypto-watch
-# crypto-watch
-# crypto-watch
-# crypto-watch
-# crypto-watch
